@@ -1,7 +1,7 @@
 # openwakeword-glados-models
 This repository contains openWakeWord models for the name "GLaDOS" from the Portal 2 franchise.
 
-These models are suitable for use with Home Assistant with the openWakeWord plugin.  Simply use SCP to transfer the .tflite file to your HAOS machine in the `/share/openwakeword/` directory.
+These models are suitable for use with Home Assistant with the openWakeWord add-on.  Simply use SCP to transfer the .tflite file to your HAOS machine in the `/share/openwakeword/` directory.
 
 There are two versions of the model:
 
